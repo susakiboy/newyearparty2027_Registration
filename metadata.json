@@ -1,0 +1,10 @@
+{
+  "name": "New Year Party 2027 — Registration & Event Management",
+  "description": "Production-Ready New Year Party 2027 Registration, QR Check-in, Dynamic Team & Sub-Team Management, Real-time Dashboard, and Excel Reporting System.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
